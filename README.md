@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ProyectoCursoAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# ProyectoFinal
+>>>>>>> ba4298423374e193af9bd8a787192c3dd46ad6f2
